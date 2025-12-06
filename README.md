@@ -22,3 +22,5 @@ But the **stories, sacrifices and “dead” liquidity** can still be **salvaged
     - proof-of-abandonment heuristics,
     - smart contracts + governance,
     - and an optional public-goods treasury.
+    - 
+### MVP v1: “If I burned ETH to a burn address on Ethereum, I can mint a Salvage Burn Credit (SBC) NFT on Monad that proves it.
